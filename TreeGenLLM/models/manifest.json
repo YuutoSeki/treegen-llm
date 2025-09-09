@@ -1,8 +1,0 @@
-{
-    "required_models": [
-        {
-            "repo_id": "lmstudio-community/Qwen2.5-7B-Instruct-GGUF",
-            "filename": "Qwen2.5-7B-Instruct-Q4_K_M.gguf"
-        }
-    ]
-}
